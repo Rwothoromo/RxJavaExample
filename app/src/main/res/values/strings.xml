@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RxJavaExample</string>
+    <string name="click_me">Click Me!</string>
+    <string name="_0">0</string>
+    <string name="before_throttle">Before Throttle:</string>
+    <string name="after_throttle">After Throttle:</string>
+</resources>
